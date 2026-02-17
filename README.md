@@ -59,14 +59,6 @@ Currently expanding my portfolio in:
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HumaArslan&show_icons=true&theme=default" />
-</p>
-
----
-
 ## 📫 Connect With Me  
 
 💼 LinkedIn: www.linkedin.com/in/dr-huma-arslan-406632172  
