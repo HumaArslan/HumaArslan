@@ -1,8 +1,8 @@
-# Hi, I'm Huma Arslan 👋  
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Huma+Arslan;PhD+in+Management;Data+Analyst+%7C+Business+Researcher;Turning+Data+into+Strategic+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=I+am+Huma+Arslan" />
 </p>
+
+---
 
 🎓 PhD in Management  
 📊 Data Analyst | Business Researcher | Academic Professional  
@@ -56,6 +56,14 @@ Currently expanding my portfolio in:
 - Research Associate – Riphah International University  
 - Lecturer – Management & Business Studies  
 - Academic Research & Publications  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HumaArslan&show_icons=true&theme=default" />
+</p>
 
 ---
 
