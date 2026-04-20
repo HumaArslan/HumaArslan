@@ -61,7 +61,7 @@ Currently expanding my portfolio in:
 
 ## 📫 Connect With Me  
 
-💼 LinkedIn: www.linkedin.com/in/dr-huma-arslan-406632172  
+💼 LinkedIn: www.linkedin.com/in/drhumaarslan
 📧 Email: humarslan@hotmail.com
 
 ---
